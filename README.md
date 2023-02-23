@@ -7,5 +7,7 @@ For example, searching up Toronto, CA will give you the Feels Like temperature i
 Format:
 When searching, put the city name, then the country. For example, California, US. Banga, IN. etc. 
 
+Feels Like uses OpenWeatherMaps for it's weather data.
+
 # Contact
 📧 feels-like@shubam.tech
