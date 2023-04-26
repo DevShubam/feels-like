@@ -1,10 +1,10 @@
 # [Feels Like](https://shubam.tech/feels-like)
 
 Feels Like shows the feels-like temperature of any city. 
+
 For example, searching up `Toronto, CA` will give you the Feels Like temperature in Toronto, Ontario, Canada. You will also receive more data, with even more being worked on.
 
-**Format**: When searching, put the city name, then the country. For example, California, US. Banga, IN. etc.
-Feels Like uses OpenWeatherMaps for its weather data.
+**Format**: When searching, put the city name, then the country. 
 
 # Contact
 📧 feels-like@shubam.tech
