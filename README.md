@@ -11,4 +11,5 @@ Feels Like uses OpenWeatherMaps for its weather data.
 
 # Licensing 
 Feels Like uses OpenWeatherMaps for its weather data.
+
 Feels Like is licensed under the MIT License. [You can view the license here](https://github.com/DevShubam/feels-like/blob/main/LICENSE)
